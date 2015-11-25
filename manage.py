@@ -6,7 +6,7 @@ manager = Manager(app)
 
 @manager.command
 def save():
-    todo = Todo(content="jj")
+    todo = Todo(content="first pro")
     todo.save()
 
 @manager.command
