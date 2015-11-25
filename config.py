@@ -1,1 +1,2 @@
 MONGODB_SETTINGS = {'DB': 'new_todo'}
+SECRET_KEY = "YANGXIAO"
